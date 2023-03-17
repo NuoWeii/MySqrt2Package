@@ -1,12 +1,12 @@
-\name{hello}
+\name{MySqrt2}
 \alias{hello}
-\title{Hello, World!}
+\title{2094HW-MySqrt2!}
 \usage{
-hello()
+MySqrt2()
 }
 \description{
-Prints 'Hello, world!'.
+2094HW-MySqrt2!
 }
 \examples{
-hello()
+2094HW-MySqrt2!
 }
